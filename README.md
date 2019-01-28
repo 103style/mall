@@ -1,5 +1,7 @@
 # mall
 
+fork form [](https://github.com/macrozheng/mall)
+
 ## 说明
 
 > 基于SpringBoot+MyBatis的电商系统，包括前台商城系统及后台管理系统。
