@@ -1,6 +1,6 @@
 # mall
 
-fork form [](https://github.com/macrozheng/mall)
+fork form [macrozheng/mall](https://github.com/macrozheng/mall)
 
 ## 说明
 
